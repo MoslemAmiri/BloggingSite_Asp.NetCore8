@@ -1,0 +1,18 @@
+﻿@page "{slug}"
+@model ServiceHost.Pages.ArticleDetailsModel
+@{
+    ViewData["Title"] = "صفحه مقاله " + Model.Article.Slug;
+}
+
+<div class="col-12 mb-3">
+    <h1>@Model.Article.Title</h1>
+</div>
+<div class="col-12 mb-3">
+    <img src="~/Pictures/@Model.Article.Picture" class="img-fluid" style="border-radius:10px;"
+         alt="@Model.Article.PictureAlt" title="@Model.Article.PictureTitle">
+</div>
+<div class="col-12">
+    <p class="article-content">
+        @Model.Article.Description
+    </p>
+</div>

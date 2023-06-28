@@ -1,0 +1,17 @@
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Domain\bin\Debug\net7.0\BlogManagement.Domain.deps.json
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Domain\bin\Debug\net7.0\BlogManagement.Domain.dll
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Domain\bin\Debug\net7.0\BlogManagement.Domain.pdb
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Domain\bin\Debug\net7.0\0_Framework.dll
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Domain\bin\Debug\net7.0\BlogManagement.Application.Contracts.dll
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Domain\bin\Debug\net7.0\0_Framework.pdb
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Domain\bin\Debug\net7.0\BlogManagement.Application.Contracts.pdb
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Domain\obj\Debug\net7.0\BlogManagement.Domain.csproj.AssemblyReference.cache
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Domain\obj\Debug\net7.0\BlogManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Domain\obj\Debug\net7.0\BlogManagement.Domain.AssemblyInfoInputs.cache
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Domain\obj\Debug\net7.0\BlogManagement.Domain.AssemblyInfo.cs
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Domain\obj\Debug\net7.0\BlogManagement.Domain.csproj.CoreCompileInputs.cache
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Domain\obj\Debug\net7.0\BlogManagement.Domain.csproj.CopyComplete
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Domain\obj\Debug\net7.0\BlogManagement.Domain.dll
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Domain\obj\Debug\net7.0\refint\BlogManagement.Domain.dll
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Domain\obj\Debug\net7.0\BlogManagement.Domain.pdb
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Domain\obj\Debug\net7.0\ref\BlogManagement.Domain.dll

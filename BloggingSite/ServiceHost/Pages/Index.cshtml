@@ -1,0 +1,33 @@
+﻿@page
+@model ServiceHost.Pages.IndexModel
+@{
+    ViewData["Title"] = "صفحه اصلی";
+}
+
+<div class="col-12 mb-3">
+    <div class="row">
+        <div class="border-bottom col-3 ml-auto mr-auto text-center">
+            <h2>تازه ترین مقالات</h2>
+        </div>
+    </div>
+</div>
+
+@foreach (var article in Model.Articles)
+{
+    <div class="col-4 mb-2">
+        <div class="card">
+            <img src="~/Pictures/@article.Picture" class="card-img-top"
+                alt="@article.PictureAlt" title="@article.PictureTitle">
+            <div class="card-body">
+                <h5 class="card-title">@article.Title</h5>
+                <p class="card-text" style="text-align:justify">
+                    @article.ShortDescription
+                </p>
+                <a asp-page="./ArticleDetails" asp-route-slug="@article.Slug"
+                    class="btn btn-primary">ادامه مطلب</a>
+                <a asp-page="./EditArticle" asp-route-id="@article.Id" class="btn btn-warning">ویرایش</a>
+                <a asp-page-handler="Remove" asp-route-id="@article.Id" class="btn btn-danger">حذف</a>
+            </div>
+        </div>
+    </div>
+}
