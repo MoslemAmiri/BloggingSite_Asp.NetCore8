@@ -1,10 +1,10 @@
 ﻿namespace _0_Framework.Domain
 {
-    public class EntityBase
+    public abstract class EntityBase
     {
-        public long Id { get; set; }
-        public bool IsRemoved { get; set; }
-        public DateTime CreationDate { get; set; }
+        public long Id { get; protected set; }
+        public bool IsRemoved { get; protected set; }
+        public DateTime CreationDate { get; protected set; }
 
         public EntityBase()
         {

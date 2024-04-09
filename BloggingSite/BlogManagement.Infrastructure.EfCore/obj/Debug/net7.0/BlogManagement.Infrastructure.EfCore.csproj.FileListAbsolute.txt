@@ -19,3 +19,4 @@ D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Infrastructur
 D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Infrastructure.EfCore\obj\Debug\net7.0\BlogManagement.Infrastructure.EfCore.pdb
 D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Infrastructure.EfCore\obj\Debug\net7.0\BlogManagement.Infrastructure.EfCore.genruntimeconfig.cache
 D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Infrastructure.EfCore\obj\Debug\net7.0\ref\BlogManagement.Infrastructure.EfCore.dll
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Infrastructure.EfCore\obj\Debug\net7.0\BlogManagement.Infrastructure.EfCore.sourcelink.json

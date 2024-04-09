@@ -87,3 +87,4 @@ D:\01_PersonalProjects\05_BloggingSite\BloggingSite\ServiceHost\obj\Debug\net7.0
 D:\01_PersonalProjects\05_BloggingSite\BloggingSite\ServiceHost\obj\Debug\net7.0\ServiceHost.pdb
 D:\01_PersonalProjects\05_BloggingSite\BloggingSite\ServiceHost\obj\Debug\net7.0\ServiceHost.genruntimeconfig.cache
 D:\01_PersonalProjects\05_BloggingSite\BloggingSite\ServiceHost\obj\Debug\net7.0\ref\ServiceHost.dll
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\ServiceHost\obj\Debug\net7.0\ServiceHost.sourcelink.json

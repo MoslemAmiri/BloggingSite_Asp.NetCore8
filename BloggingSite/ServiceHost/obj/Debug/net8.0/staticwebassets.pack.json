@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ServiceHost.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ServiceHost.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\Pictures\\Articles\\عکاسی\\2023-05-07-00-11-57-cityinlenz.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\Articles\\عکاسی\\2023-05-07-00-11-57-cityinlenz.jpg"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\Pictures\\Articles\\فیلم-برداری\\2023-05-07-00-11-50-lenz.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\Articles\\فیلم-برداری\\2023-05-07-00-11-50-lenz.jpg"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\Pictures\\Articles\\کوه-نوردی\\2023-05-07-00-12-21-photography.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\Articles\\کوه-نوردی\\2023-05-07-00-12-21-photography.jpg"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\assets\\css\\fonts\\IranianSans.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\IranianSans.eot"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\assets\\css\\fonts\\IranianSans.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\IranianSans.svg"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\assets\\css\\fonts\\IranianSans.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\IranianSans.ttf"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\assets\\css\\fonts\\IranianSans.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\IranianSans.woff"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\assets\\css\\fonts\\IranianSans.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\IranianSans.woff2"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\assets\\js\\site.js",
+      "PackagePath": "staticwebassets\\assets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\01_PersonalProjects\\05_BloggingSite\\BloggingSite\\ServiceHost\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ServiceHost.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ServiceHost.props",
+      "PackagePath": "build\\ServiceHost.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ServiceHost.props",
+      "PackagePath": "buildMultiTargeting\\ServiceHost.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ServiceHost.props",
+      "PackagePath": "buildTransitive\\ServiceHost.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -17,3 +17,4 @@ D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application\o
 D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application\obj\Debug\net7.0\refint\BlogManagement.Application.dll
 D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application\obj\Debug\net7.0\BlogManagement.Application.pdb
 D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application\obj\Debug\net7.0\ref\BlogManagement.Application.dll
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application\obj\Debug\net7.0\BlogManagement.Application.sourcelink.json

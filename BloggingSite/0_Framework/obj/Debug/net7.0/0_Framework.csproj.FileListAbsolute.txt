@@ -10,3 +10,4 @@ D:\01_PersonalProjects\05_BloggingSite\BloggingSite\0_Framework\obj\Debug\net7.0
 D:\01_PersonalProjects\05_BloggingSite\BloggingSite\0_Framework\obj\Debug\net7.0\refint\0_Framework.dll
 D:\01_PersonalProjects\05_BloggingSite\BloggingSite\0_Framework\obj\Debug\net7.0\0_Framework.pdb
 D:\01_PersonalProjects\05_BloggingSite\BloggingSite\0_Framework\obj\Debug\net7.0\ref\0_Framework.dll
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\0_Framework\obj\Debug\net7.0\0_Framework.sourcelink.json

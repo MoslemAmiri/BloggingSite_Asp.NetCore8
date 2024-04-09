@@ -2,9 +2,9 @@
 {
     public static class Statuses
     {
-        public const bool Remove = true; //برداشتن
-        public const bool Restore = false; //بازگرداندن
-        public const bool Removed = true; //برداشته شده
-        public const bool NotRemoved = false; //برداشته نشده
+        public const bool Remove = true;
+        public const bool Restore = false;
+        public const bool Removed = true;
+        public const bool NotRemoved = false;
     }
 }

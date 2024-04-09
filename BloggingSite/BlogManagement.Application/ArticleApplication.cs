@@ -1,4 +1,6 @@
 ﻿using _0_Framework.Application;
+using _0_Framework.Application.Generate;
+using _0_Framework.Application.Message;
 using BlogManagement.Application.Contracts.Article;
 using BlogManagement.Domain.ArticleAgg;
 
@@ -23,13 +25,8 @@ namespace BlogManagement.Application
 
         public OperationResult Create(CreateArticle command)
         {
-            var operation = new OperationResult();
-
-            #region picture and slug
             var slug = command.Slug.Slugify();
-            var picturePath = $"Articles/{slug}";
-            var pictureName = _fileUploader.Upload(command.Picture, picturePath);
-            #endregion
+            var operation = new OperationResult();
 
             #region exceptions
             if (command.Picture == null)
@@ -42,6 +39,9 @@ namespace BlogManagement.Application
                 return operation.Failed(ApplicationMessages.DuplicatedRecord);
             #endregion
 
+            var picturePath = $"Articles/{slug}";
+            var pictureName = _fileUploader.Upload(command.Picture, picturePath);
+
             var course = new Article(command.Title, command.ShortDescription,
                 command.Description, pictureName, command.PictureAlt,
                 command.PictureTitle, slug);
@@ -53,17 +53,12 @@ namespace BlogManagement.Application
 
         public OperationResult Edit(EditArticle command)
         {
-            var operation = new OperationResult();
-            var course = _articleRepository.Get(command.Id);
-
-            #region picture and slug
             var slug = command.Slug.Slugify();
-            var picturePath = $"Articles/{slug}";
-            var pictureName = _fileUploader.Upload(command.Picture, picturePath);
-            #endregion
+            var operation = new OperationResult();
+            var article = _articleRepository.Get(command.Id);
 
             #region exceptions
-            if (course == null)
+            if (article == null)
                 return operation.Failed(ApplicationMessages.RecordNotFound);
 
             if (_articleRepository
@@ -74,7 +69,14 @@ namespace BlogManagement.Application
                 return operation.Failed(ApplicationMessages.DuplicatedRecord);
             #endregion
 
-            course.Edit(command.Title, command.ShortDescription,
+            string pictureName = "";
+            if (command.Picture != null)
+            {
+                var picturePath = $"Articles/{slug}";
+                pictureName = _fileUploader.Upload(command.Picture, picturePath);
+            }
+
+            article.Edit(command.Title, command.ShortDescription,
                 command.Description, pictureName, command.PictureAlt,
                 command.PictureTitle, slug);
 

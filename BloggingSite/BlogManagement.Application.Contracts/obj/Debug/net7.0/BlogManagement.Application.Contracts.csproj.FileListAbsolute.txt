@@ -13,3 +13,4 @@ D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.C
 D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.Contracts\obj\Debug\net7.0\refint\BlogManagement.Application.Contracts.dll
 D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.Contracts\obj\Debug\net7.0\BlogManagement.Application.Contracts.pdb
 D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.Contracts\obj\Debug\net7.0\ref\BlogManagement.Application.Contracts.dll
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.Contracts\obj\Debug\net7.0\BlogManagement.Application.Contracts.sourcelink.json

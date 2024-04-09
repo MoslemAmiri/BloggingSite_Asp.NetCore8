@@ -1,0 +1,16 @@
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.Contracts\bin\Debug\net8.0\BlogManagement.Application.Contracts.deps.json
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.Contracts\bin\Debug\net8.0\BlogManagement.Application.Contracts.dll
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.Contracts\bin\Debug\net8.0\BlogManagement.Application.Contracts.pdb
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.Contracts\bin\Debug\net8.0\0_Framework.dll
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.Contracts\bin\Debug\net8.0\0_Framework.pdb
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.Contracts\obj\Debug\net8.0\BlogManagement.Application.Contracts.csproj.AssemblyReference.cache
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.Contracts\obj\Debug\net8.0\BlogManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.Contracts\obj\Debug\net8.0\BlogManagement.Application.Contracts.AssemblyInfoInputs.cache
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.Contracts\obj\Debug\net8.0\BlogManagement.Application.Contracts.AssemblyInfo.cs
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.Contracts\obj\Debug\net8.0\BlogManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.Contracts\obj\Debug\net8.0\BlogManagement.Application.Contracts.sourcelink.json
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.Contracts\obj\Debug\net8.0\BlogManagement.Application.Contracts.csproj.CopyComplete
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.Contracts\obj\Debug\net8.0\BlogManagement.Application.Contracts.dll
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.Contracts\obj\Debug\net8.0\refint\BlogManagement.Application.Contracts.dll
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.Contracts\obj\Debug\net8.0\BlogManagement.Application.Contracts.pdb
+D:\01_PersonalProjects\05_BloggingSite\BloggingSite\BlogManagement.Application.Contracts\obj\Debug\net8.0\ref\BlogManagement.Application.Contracts.dll

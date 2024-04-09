@@ -1,4 +1,5 @@
 ﻿using _0_Framework.Application;
+using _0_Framework.Application.Convertor;
 
 namespace ServiceHost
 {
